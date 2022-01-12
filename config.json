@@ -1,5 +1,5 @@
 {
-    "individual_delay": 7,
+    "individual_delay": 10,
     "rate_limit_delay": 800,
     "offset": 300,
     "skip_completed": true,
